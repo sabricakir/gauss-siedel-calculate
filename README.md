@@ -1,0 +1,2 @@
+# gauss-siedel-calculate
+GAUSS SIEDEL METHOD IN NUMERICAL ANALYSIS
